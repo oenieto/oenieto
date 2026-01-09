@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer & Founder @ Kaizen Code. Building scalable web solutions with Python & React. Focused on Digital Transformation & Cloud Architecture.
+Software Engineer & Founder @ Kaizen Code ⛩️ | Building scalable web solutions with Python & React 🐍⚛️ | Focused on Digital Transformation & Cloud Architecture ☁️ | 🇯🇵 JP Learner
 
 
 ## 🌐 Socials:
