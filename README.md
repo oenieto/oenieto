@@ -1,5 +1,10 @@
 # 💫 About Me:
-Software Engineer & Founder @ Kaizen Code ⛩️ | Building scalable web solutions with Python & React 🐍⚛️ | Focused on Digital Transformation & Cloud Architecture ☁️ | 🇯🇵 JP Learner
+Konnichiwa, I'm Oscar! (こんにちは) 👋
+🚀 Software Engineer & Founder of Kaizen Code
+
+I turn complex problems into efficient, scalable software solutions. My philosophy is built on **Kaizen (改善)**: continuous improvement in every line of code I write.
+
+Currently leading digital transformation projects and mastering Cloud Architecture while pursuing my goal of a Master's degree in Japan. ⛩️
 
 
 ## 🌐 Socials:
