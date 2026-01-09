@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm a 23 y/o Systems Engineering student at UVM 🇲🇽 coding my way to Japan 🇯🇵. When I'm not debugging, I'm probably watching One Piece or studying Kanji. Welcome to my repo! 👾<br><br>I’m currently working on: Surviving engineering school & cool side projects 💻🔥<br><br>I’m looking to collaborate on: Anything creative! (or finding the One Piece 🏴‍☠️)<br><br>I’m looking for help with: Practicing my Japanese conversation skills 🗣️⛩️<br><br>I’m currently learning: Nihongo (日本語) for my future Master's degree in Tokyo 🌸<br><br>Ask me about: Tech trends or why One Piece is the GOAT 🐐<br><br>Fun fact: I code better with anime openings in the background 🎧⚡
+Software Engineer & Founder @ Kaizen Code. Building scalable web solutions with Python & React. Focused on Digital Transformation & Cloud Architecture.
 
 
 ## 🌐 Socials:
