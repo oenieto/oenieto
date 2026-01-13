@@ -4,7 +4,7 @@ Hi, I'm Oscar! (こんにちは) 👋
 
 I turn complex problems into efficient, scalable software solutions. My philosophy is built on **Kaizen (改善)**: continuous improvement in every line of code I write.
 
-Currently leading digital transformation projects and mastering Cloud Architecture while pursuing my goal of a Master's degree in Japan. ⛩️
+Currently leading digital transformation projects and mastering Cloud Architecture while pursuing my goal of a Master's degree in Japan. 
 
 
 ## 🌐 Socials:
